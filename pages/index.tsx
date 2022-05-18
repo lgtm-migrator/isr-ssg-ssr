@@ -19,6 +19,11 @@ const Home: NextPage = () => {
           <a>ISR</a>
         </Link>
       </li>
+      <li>
+        <Link href="ssr-csr">
+          <a>SSR+CSR</a>
+        </Link>
+      </li>
     </ul>
   );
 };
